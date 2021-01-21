@@ -435,8 +435,7 @@ a {
       width: 500px;
       height: 54px;
       text-align: center;
-      cursor: pointer;
-      border-radius: 50%; }
+      cursor: pointer; }
       .site-mobile-menu .site-nav-wrap .arrow-collapse:hover {
         background: #f8f9fa; }
       .site-mobile-menu .site-nav-wrap .arrow-collapse:before {
